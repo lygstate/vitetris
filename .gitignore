@@ -1,1 +1,5 @@
 *.[oa]
+tetris
+config.mk
+src/config.h
+src/src-conf.mk
